@@ -62,7 +62,7 @@ spring:
 ## 运行
 
 ```bash
-java -jar target/latticy-0.2.0-RC2.jar
+java -jar target/latticy-0.2.1-RELEASE.jar
 ```
 
 ## 完成
